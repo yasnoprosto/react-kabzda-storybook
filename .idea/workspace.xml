@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ef2c007-913c-4877-8d76-f642e1f088dc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Monday/TodolistMonday3/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Monday/TodolistMonday3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Monday/TodolistMonday3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Monday/TodolistMonday3/my-app" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Monday/additionalLesson/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Monday/additionalLesson/.idea/additionalLesson.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Monday/additionalLesson/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Monday/additionalLesson/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Monday/additionalLesson/150623/src/components/SuperButton.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Monday/additionalLesson/150623/src/components/SuperButton.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Monday/additionalLesson/150623/src/components/SuperTodoList.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Monday/todolist_monday4/src/CheckboxInput.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Monday/todolist_monday4/src/Todolist.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../counter/counter-tuesday-01/src/components/Counter/Counter.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../counter/counter-tuesday-01/src/components/CounterSettings/CounterSettings.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../counter/counter-tuesday-01/src/components/CounterSettings/CounterSettings.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../counter/counter-tuesday-01/src/components/CounterSettings/CounterSettingsInput/CounterSettingsInput.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../counter/counter-tuesday-01/src/components/CounterSettings/CounterSettingsInput/CounterSettingsInput.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuesday/tuesday02/src/AddItemForm.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuesday/tuesday02additional2/src/components/helpers/useWindowSize.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuesday/tuesday02kabzda/src/EditableSpan.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW_AUTO/hws2" beforeDir="false" afterPath="$PROJECT_DIR$/../HW_AUTO/hws2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Monday/TodolistMonday2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Monday/TodolistMonday2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Monday/TodolistMonday2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Monday/TodolistMonday2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Monday/additionalLesson/banknotes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Monday/additionalLesson/banknotes/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Monday/additionalLesson/banknotes/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Monday/additionalLesson/banknotes/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Monday/additionalLesson/banknotes/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Monday/additionalLesson/banknotes/src/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Monday/additionalLesson/banknotes/src/City.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Monday/additionalLesson/banknotes/src/Country.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Monday/additionalLesson/banknotes/src/CurrentATM.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Monday/additionalLesson/banknotes/src/CurrentBankomat_styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Monday/additionalLesson/banknotes/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Monday/additionalLesson/banknotes/src/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Monday/additionalLesson/banknotes/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Monday/additionalLesson/banknotes/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Monday/todolistMonday1/my-app" beforeDir="false" afterPath="$PROJECT_DIR$/../Monday/todolistMonday1/my-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../big_vanilla_project" beforeDir="false" afterPath="$PROJECT_DIR$/../big_vanilla_project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reactkabzda" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reactpractice/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reactpractice/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reactpractice/.idea/reactpractice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reactpractice/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reactpractice/Input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reactpractice/Money Comp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reactpractice/my-app/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../samurai-it-kamasutra" beforeDir="false" afterPath="$PROJECT_DIR$/../samurai-it-kamasutra" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist_HW/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist_HW/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Monday/TodolistMonday3/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist_HW/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist_HW/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist_HW/.idea/todolist.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Monday/TodolistMonday3/.idea/todolistMonday1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist_HW/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist_HW/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist_HW/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist_HW/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist_HW/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist_HW/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist_HW/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist_HW/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist_HW/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist_HW/src/App.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist_HW/src/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist_HW/src/Todolist.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist_HW/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist_HW/src/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist_HW/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist_HW/src/react-app-env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist_HW/src/setupTests.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist_HW/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist_HW/yarn.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2SCx98vLHp3BxFak5BcqYxirnc2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "money__filter",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ef2c007-913c-4877-8d76-f642e1f088dc" name="Changes" comment="" />
+      <created>1688664209522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688664209522</updated>
+      <workItem from="1688664210923" duration="46000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

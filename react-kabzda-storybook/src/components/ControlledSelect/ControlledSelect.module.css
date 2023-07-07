@@ -1,0 +1,10 @@
+.formControl {
+    display: flex;
+    align-items: center;
+    background-color: whitesmoke;
+}
+
+.select {
+    width: 150px;
+    border: 1px solid black;
+}
