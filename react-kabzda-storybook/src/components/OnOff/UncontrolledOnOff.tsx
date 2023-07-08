@@ -8,8 +8,6 @@ export const UncontrolledOnOff = ({onChange}: OnOffPropsType) => {
 
     const [isOn, setIsOn] = useState(false);
 
-    console.log("isOn = " + isOn);
-
     const turnOn = () => {
         setIsOn(true);
         onChange(true);

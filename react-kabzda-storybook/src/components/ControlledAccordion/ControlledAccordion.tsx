@@ -1,3 +1,4 @@
+import React from "react";
 import {ControlledAccordionTitle} from "./ControlledAccordionTitle";
 import {ControlledAccordionBody} from "./ControlledAccordionBody";
 
@@ -13,12 +14,16 @@ type AccordionPropsType = {
     items: ItemType[]
     onClick: (value: any) => void
 }
+
+const ControlledAccordionTitleMemo = React.memo(ControlledAccordionTitle)
+const ControlledAccordionBodyMemo = React.memo(ControlledAccordionBody)
+
 export const ControlledAccordion = ({titleValue, setExpanded, expanded, items, onClick}: AccordionPropsType) => {
     console.log("UncontrolledAccordion is rendering")
     return (
         <div>
-            <ControlledAccordionTitle titleValue={titleValue} setExpanded={setExpanded}/>
-            {expanded && <ControlledAccordionBody items={items} onClick={onClick}/> }
+            <ControlledAccordionTitleMemo titleValue={titleValue} setExpanded={setExpanded}/>
+            {expanded && <ControlledAccordionBodyMemo items={items} onClick={onClick}/> }
         </div>
     )
 }

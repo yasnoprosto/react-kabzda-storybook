@@ -1,3 +1,4 @@
+import {StateType} from "./Reducer";
 
 
 type UncontrolledAccordionTitlePropsType = {

@@ -9,7 +9,7 @@ export type ControlledSelectPropsType = {
 }
 
 export const ControlledSelect: React.FC<ControlledSelectPropsType> = (props) => {
-
+    console.log("ControlledSelect");
     const [active, setActive] = useState(false);
 
 
