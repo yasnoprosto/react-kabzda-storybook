@@ -1,4 +1,4 @@
-import React, {useMemo, useState} from "react";
+import React, {useCallback, useMemo, useState} from "react";
 
 export default {
     title: "UseMemo Demo"
@@ -48,26 +48,70 @@ const UsersMap = (props: {
     );
 };
 
-const Users = React.memo(UsersMap);
+const UsersMemo = React.memo(UsersMap);
 
 export const HelpsToReactMemo = () => {
     console.log("HelpsToReactMemo Rendering");
     const [counter, setCounter] = useState(0);
     const [users, setUsers] = useState(["Anton", "Valera", "Misha", "Denis",]);
-    const filteredArrayMemo = useMemo(() => {
+    const filteredUsersArrayMemo = useMemo(() => {
         return users.filter(u => u.toLowerCase().indexOf("a") > -1);
     }, [users]);
 
     const addUser = () => {
-        const newUsers = [...users, "Sveta" + new Date().getTime()]
-        setUsers(newUsers)
-    }
+        const newUsers = [...users, "Sveta" + new Date().getTime()];
+        setUsers(newUsers);
+    };
 
     return <>
         <button onClick={() => setCounter(counter + 1)}>+</button>
         <button onClick={addUser}>add user</button>
         {counter}
-        <Users users={filteredArrayMemo}/>
+        <UsersMemo users={filteredUsersArrayMemo}/>
 
     </>;
 };
+
+export const LikeUseCallback = () => {
+    console.log("LikeUseCallback");
+    const [counter, setCounter] = useState(0);
+    const [books, setBooks] = useState(["JS", "React", "CSS", "HTML",]);
+
+    const memoizedAddBook = useMemo( () => {
+        return () => {
+            console.log(books);
+            const newBooks = [...books, "TS" + new Date().getTime()];
+            setBooks(newBooks);
+        };
+    }, [books])
+
+    const memoizedAddBook2 = useCallback( () => {
+            console.log(books);
+            const newBooks = [...books, "TS" + new Date().getTime()];
+            setBooks(newBooks);
+        }, [books])
+
+    return <>
+        <button onClick={() => setCounter(counter + 1)}>+</button>
+
+        {counter}
+        <BooksMemo addBook={memoizedAddBook2}/>
+
+    </>;
+};
+
+type BooksMapParams = {
+    addBook: () => void;
+}
+
+const BooksMap = (props: BooksMapParams) => {
+    console.log("Rendering Books Map");
+    return (
+        <div>
+            <button onClick={props.addBook}>add book</button>
+        </div>
+
+    );
+};
+
+const BooksMemo = React.memo(BooksMap);
