@@ -5,7 +5,7 @@ type OnOffPropsType = {
     isOn:boolean
 }
 export const ControlledOnOff = ({setIsOn, isOn}: OnOffPropsType) => {
-    console.log("UncontrolledOnOff is rendering");
+    console.log("ControlledOnOff is rendering");
 
 
     const turnOn = () => {

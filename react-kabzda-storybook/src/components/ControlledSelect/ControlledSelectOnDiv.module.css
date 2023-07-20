@@ -1,0 +1,24 @@
+.option:hover {
+    background-color: #1ea7fd;
+}
+
+.optionActive {
+    background-color: #1ea7fd;
+}
+
+.customSelect {
+    display: inline-block;
+    min-width: 90px;
+    height: 25px;
+    border: 1px solid black;
+    align-items: center;
+}
+
+.customSelectContainer {
+    position: relative;
+}
+
+.arrow {
+    position: absolute;
+    right: 5px;
+}

@@ -29,23 +29,33 @@ const App = () => {
         setSelectedValue(value);
     };
 
+    const PageTitleMemo = React.memo(PageTitle)
+    const UncontrolledOnOffMemo = React.memo(UncontrolledOnOff)
+    const UncontrolledAccordionMemo = React.memo(UncontrolledAccordion)
+    const UncontrolledRatingMemo = React.memo(UncontrolledRating)
+    const ControlledOnOffMemo = React.memo(ControlledOnOff)
+    const ControlledAccordionMemo = React.memo(ControlledAccordion)
+    const ControlledRatingMemo = React.memo(ControlledRating)
+    const ControlledSelectMemo = React.memo(ControlledSelect)
+    const ControlledSelectOnDivMemo = React.memo(ControlledSelectOnDiv)
+
     return (
         <div className="App">
-            <PageTitle title={"TITLE"}/>
+            <PageTitleMemo title={"TITLE"}/>
             <div>
-                Uncontrolled OnOff <UncontrolledOnOff onChange={setIsOn}/> {isOn.toString()}
+                Uncontrolled OnOff <UncontrolledOnOffMemo onChange={setIsOn}/> {isOn.toString()}
             </div>
             <div>
-                Uncontrolled Accordion <UncontrolledAccordion titleValue={"Users"}/>
+                Uncontrolled Accordion <UncontrolledAccordionMemo titleValue={"Users"}/>
             </div>
             <div>
-                Uncontrolled Rating <UncontrolledRating/>
+                Uncontrolled Rating <UncontrolledRatingMemo/>
             </div>
             <div>
-                Controlled OnOff <ControlledOnOff setIsOn={setIsOn} isOn={isOn}/>
+                Controlled OnOff <ControlledOnOffMemo setIsOn={setIsOn} isOn={isOn}/>
             </div>
             <div>
-                Controlled Accordion <ControlledAccordion onClick={onAccordionClickHandler} titleValue={"Controlled"}
+                Controlled Accordion <ControlledAccordionMemo onClick={onAccordionClickHandler} titleValue={"Controlled"}
                                                           setExpanded={() => {
                                                               setIsExpanded(!isExpanded);
                                                           }}
@@ -55,11 +65,11 @@ const App = () => {
             }, {title: "Sasha", value: 3}]}/>
             </div>
             <div>
-                Controlled Rating <ControlledRating value={ratingValue} setRatingValue={setRatingValue}/>
+                Controlled Rating <ControlledRatingMemo value={ratingValue} setRatingValue={setRatingValue}/>
             </div>
-            <div><ControlledSelect items={selectItems} onChange={onSelectClickHandler} selectedValue={selectedValue}/>
+            <div><ControlledSelectMemo items={selectItems} onChange={onSelectClickHandler} selectedValue={selectedValue}/>
             </div>
-            <div style={{display: "flex", alignItems: "center", justifyContent: "center"}}><ControlledSelectOnDiv items={selectItems} onChange={onSelectClickHandler} selectedValue={selectedValue}/></div>
+            <div style={{display: "flex", alignItems: "center", justifyContent: "center"}}><ControlledSelectOnDivMemo items={selectItems} onChange={onSelectClickHandler} selectedValue={selectedValue}/></div>
         </div>
     );
 };
