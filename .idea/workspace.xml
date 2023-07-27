@@ -23,6 +23,7 @@
       <change afterPath="$PROJECT_DIR$/../counter/counter-tuesday-01/src/components/CounterSettings/CounterSettings.tsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../counter/counter-tuesday-01/src/components/CounterSettings/CounterSettingsInput/CounterSettingsInput.module.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../counter/counter-tuesday-01/src/components/CounterSettings/CounterSettingsInput/CounterSettingsInput.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-kabzda-storybook/src/stories/UseState.stories.tsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../tuesday/tuedsay03and04/src/reducers/todolist-reducer.test.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../tuesday/tuedsay03and04/src/reducers/todolist-reducer.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../tuesday/tuesday02/src/AddItemForm.tsx" afterDir="false" />
@@ -48,7 +49,6 @@
       <change beforePath="$PROJECT_DIR$/../Monday/todolistMonday1/my-app" beforeDir="false" afterPath="$PROJECT_DIR$/../Monday/todolistMonday1/my-app" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../big_vanilla_project" beforeDir="false" afterPath="$PROJECT_DIR$/../big_vanilla_project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-kabzda-storybook/src/stories/UseMemo.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-kabzda-storybook/src/stories/UseMemoUseCallback.stories.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../reactkabzda" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../reactpractice/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../reactpractice/.idea/modules.xml" beforeDir="false" />
@@ -99,21 +99,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "useCallback",
-    "last_opened_file_path": "/Users/denis/Desktop/frontend/it-incubator/react-kabzda-storybook/react-kabzda-storybook/src/stories",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "/Users/denis/Desktop/frontend/it-incubator/react-kabzda-storybook/react-kabzda-storybook/node_modules/typescript/lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;useState&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/denis/Desktop/frontend/it-incubator/react-kabzda-storybook/react-kabzda-storybook/src/stories&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/denis/Desktop/frontend/it-incubator/react-kabzda-storybook/react-kabzda-storybook/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/react-kabzda-storybook/src/stories" />
@@ -129,7 +129,11 @@
       <updated>1688664209522</updated>
       <workItem from="1688664210923" duration="46000" />
       <workItem from="1689392837344" duration="5404000" />
-      <workItem from="1689825493343" duration="4199000" />
+      <workItem from="1689825493343" duration="8148000" />
+      <workItem from="1690436205821" duration="2342000" />
+      <workItem from="1690444903679" duration="101000" />
+      <workItem from="1690445054832" duration="816000" />
+      <workItem from="1690446059982" duration="292000" />
     </task>
     <servers />
   </component>
