@@ -48,7 +48,6 @@
       <change beforePath="$PROJECT_DIR$/../Monday/todolistMonday1/my-app" beforeDir="false" afterPath="$PROJECT_DIR$/../Monday/todolistMonday1/my-app" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../big_vanilla_project" beforeDir="false" afterPath="$PROJECT_DIR$/../big_vanilla_project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-kabzda-storybook/src/stories/UseMemo.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-kabzda-storybook/src/stories/UseMemoUseCallback.stories.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../reactkabzda" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../reactpractice/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../reactpractice/.idea/modules.xml" beforeDir="false" />
@@ -103,7 +102,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "useCallback",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/denis/Desktop/frontend/it-incubator/react-kabzda-storybook/react-kabzda-storybook/src/stories",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -129,7 +128,7 @@
       <updated>1688664209522</updated>
       <workItem from="1688664210923" duration="46000" />
       <workItem from="1689392837344" duration="5404000" />
-      <workItem from="1689825493343" duration="4199000" />
+      <workItem from="1689825493343" duration="8148000" />
     </task>
     <servers />
   </component>
