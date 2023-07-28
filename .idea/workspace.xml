@@ -23,7 +23,6 @@
       <change afterPath="$PROJECT_DIR$/../counter/counter-tuesday-01/src/components/CounterSettings/CounterSettings.tsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../counter/counter-tuesday-01/src/components/CounterSettings/CounterSettingsInput/CounterSettingsInput.module.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../counter/counter-tuesday-01/src/components/CounterSettings/CounterSettingsInput/CounterSettingsInput.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-kabzda-storybook/src/stories/UseState.stories.tsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../tuesday/tuedsay03and04/src/reducers/todolist-reducer.test.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../tuesday/tuedsay03and04/src/reducers/todolist-reducer.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../tuesday/tuesday02/src/AddItemForm.tsx" afterDir="false" />
@@ -134,6 +133,7 @@
       <workItem from="1690444903679" duration="101000" />
       <workItem from="1690445054832" duration="816000" />
       <workItem from="1690446059982" duration="292000" />
+      <workItem from="1690465240160" duration="824000" />
     </task>
     <servers />
   </component>
