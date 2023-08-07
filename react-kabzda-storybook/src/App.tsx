@@ -9,6 +9,7 @@ import {UncontrolledAccordion} from "./components/UncontrolledAccordion/Uncontro
 import {UncontrolledOnOff} from "./components/OnOff/UncontrolledOnOff";
 import {ControlledSelect} from "./components/ControlledSelect/ControlledSelect";
 import {ControlledSelectOnDiv} from "./components/ControlledSelect/ControlledSelectOnDiv";
+import {DigitalClock} from "./components/Clock/DigitalClock";
 
 
 const App = () => {
@@ -70,6 +71,7 @@ const App = () => {
             <div><ControlledSelectMemo items={selectItems} onChange={onSelectClickHandler} selectedValue={selectedValue}/>
             </div>
             <div style={{display: "flex", alignItems: "center", justifyContent: "center"}}><ControlledSelectOnDivMemo items={selectItems} onChange={onSelectClickHandler} selectedValue={selectedValue}/></div>
+            <div><DigitalClock/></div>
         </div>
     );
 };

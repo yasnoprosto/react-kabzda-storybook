@@ -22,7 +22,10 @@
       <change afterPath="$PROJECT_DIR$/../counter/counter-tuesday-01/src/components/CounterSettings/CounterSettings.module.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../counter/counter-tuesday-01/src/components/CounterSettings/CounterSettings.tsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../counter/counter-tuesday-01/src/components/CounterSettings/CounterSettingsInput/CounterSettingsInput.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../counter/counter-tuesday-01/src/components/CounterSettings/CounterSettingsInput/CounterSettingsInput.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-kabzda-storybook/src/components/Clock/AnalogClock.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-kabzda-storybook/src/components/Clock/AnalogClock.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-kabzda-storybook/src/components/Clock/Clock.stories.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-kabzda-storybook/src/components/Clock/DigitalClock.tsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../tuesday/tuedsay03and04/src/reducers/todolist-reducer.test.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../tuesday/tuedsay03and04/src/reducers/todolist-reducer.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../tuesday/tuesday02/src/AddItemForm.tsx" afterDir="false" />
@@ -48,6 +51,8 @@
       <change beforePath="$PROJECT_DIR$/../Monday/todolistMonday1/my-app" beforeDir="false" afterPath="$PROJECT_DIR$/../Monday/todolistMonday1/my-app" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../big_vanilla_project" beforeDir="false" afterPath="$PROJECT_DIR$/../big_vanilla_project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-kabzda-storybook/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-kabzda-storybook/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-kabzda-storybook/src/stories/UseEffect.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-kabzda-storybook/src/stories/UseEffect.stories.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../reactkabzda" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../reactpractice/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../reactpractice/.idea/modules.xml" beforeDir="false" />
@@ -93,28 +98,34 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2SCx98vLHp3BxFak5BcqYxirnc2" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;useState&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/denis/Desktop/frontend/it-incubator/react-kabzda-storybook/react-kabzda-storybook/src/stories&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Users/denis/Desktop/frontend/it-incubator/react-kabzda-storybook/react-kabzda-storybook/node_modules/typescript/lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "useEffect__Clocks",
+    "last_opened_file_path": "/Users/denis/Desktop/frontend/it-incubator/react-kabzda-storybook/react-kabzda-storybook/src/components/Clock",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "/Users/denis/Desktop/frontend/it-incubator/react-kabzda-storybook/react-kabzda-storybook/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/react-kabzda-storybook/src/components/Clock" />
       <recent name="$PROJECT_DIR$/react-kabzda-storybook/src/stories" />
     </key>
   </component>
@@ -133,7 +144,10 @@
       <workItem from="1690444903679" duration="101000" />
       <workItem from="1690445054832" duration="816000" />
       <workItem from="1690446059982" duration="292000" />
-      <workItem from="1690465240160" duration="824000" />
+      <workItem from="1690465240160" duration="7937000" />
+      <workItem from="1691333329374" duration="5000" />
+      <workItem from="1691333384567" duration="212000" />
+      <workItem from="1691333603928" duration="4454000" />
     </task>
     <servers />
   </component>
