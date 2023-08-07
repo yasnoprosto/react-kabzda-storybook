@@ -2,10 +2,10 @@ import React, {useEffect, useState} from "react";
 import {log} from "util";
 
 export default {
-    title: "useEffect demo"
+    title: "UseEffect Demo"
 };
 
-export const BaseExample = () => {
+export const UseEffectExample = () => {
     console.log("Example is rendering");
 
     const [fake, setFake] = useState(0);
@@ -32,25 +32,5 @@ export const BaseExample = () => {
         Hello, {counter} {fake}
         <button onClick={() => setFake(fake + 1)}>+</button>
         <button onClick={() => setCounter(counter + 1)}>+</button>
-    </>;
-};
-
-export const SetTimeoutExample = () => {
-    console.log("Set Timeout Example");
-
-    const [date, setDate] = useState(new Date());
-
-
-    useEffect(() => {
-        setInterval(() => {
-            setDate(new Date())
-        }, 1000);
-    }, [date]);
-
-
-
-
-    return <>
-        {date.getHours()}:{date.getMinutes()}:{date.getSeconds()}
     </>;
 };
