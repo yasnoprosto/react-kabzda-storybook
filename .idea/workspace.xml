@@ -22,10 +22,6 @@
       <change afterPath="$PROJECT_DIR$/../counter/counter-tuesday-01/src/components/CounterSettings/CounterSettings.module.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../counter/counter-tuesday-01/src/components/CounterSettings/CounterSettings.tsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../counter/counter-tuesday-01/src/components/CounterSettings/CounterSettingsInput/CounterSettingsInput.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-kabzda-storybook/src/components/Clock/AnalogClock.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-kabzda-storybook/src/components/Clock/AnalogClock.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-kabzda-storybook/src/components/Clock/Clock.stories.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-kabzda-storybook/src/components/Clock/DigitalClock.tsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../tuesday/tuedsay03and04/src/reducers/todolist-reducer.test.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../tuesday/tuedsay03and04/src/reducers/todolist-reducer.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../tuesday/tuesday02/src/AddItemForm.tsx" afterDir="false" />
@@ -51,7 +47,8 @@
       <change beforePath="$PROJECT_DIR$/../Monday/todolistMonday1/my-app" beforeDir="false" afterPath="$PROJECT_DIR$/../Monday/todolistMonday1/my-app" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../big_vanilla_project" beforeDir="false" afterPath="$PROJECT_DIR$/../big_vanilla_project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-kabzda-storybook/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-kabzda-storybook/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-kabzda-storybook/src/components/Clock/AnalogClock.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/react-kabzda-storybook/src/components/Clock/AnalogClock.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-kabzda-storybook/src/components/Clock/Clock.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-kabzda-storybook/src/components/Clock/Clock.stories.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/react-kabzda-storybook/src/stories/UseEffect.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-kabzda-storybook/src/stories/UseEffect.stories.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../reactkabzda" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../reactpractice/.idea/.gitignore" beforeDir="false" />
@@ -111,7 +108,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "useEffect__Clocks",
+    "git-widget-placeholder": "useEffect__cleanup",
     "last_opened_file_path": "/Users/denis/Desktop/frontend/it-incubator/react-kabzda-storybook/react-kabzda-storybook/src/components/Clock",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -147,7 +144,10 @@
       <workItem from="1690465240160" duration="7937000" />
       <workItem from="1691333329374" duration="5000" />
       <workItem from="1691333384567" duration="212000" />
-      <workItem from="1691333603928" duration="4454000" />
+      <workItem from="1691333603928" duration="5103000" />
+      <workItem from="1691419591560" duration="2000" />
+      <workItem from="1691859679250" duration="938000" />
+      <workItem from="1691876326846" duration="6807000" />
     </task>
     <servers />
   </component>
