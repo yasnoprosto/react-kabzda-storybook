@@ -7,10 +7,16 @@ export default {
 };
 
 
-export const BaseExample = () => {
+export const BaseDigitalExample = () => {
 
     return <div>
        <DigitalClock/>
+    </div>
+};
+
+export const BaseAnalogExample = () => {
+
+    return <div>
         <AnalogClock/>
     </div>
 };
